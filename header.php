@@ -35,11 +35,11 @@
         <link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css" />
         <script src="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.js"></script>
         
-		<script src="/Baertur-master/assets/lib/L.TileLayer.Kartverket/dist/L.TileLayer.Kartverket.min.js"></script>
-		<script src="/Baertur-master/assets/lib/leaflet-gpx/gpx.js"></script>
+		<script src="lib//Baertur-master/assets/lib/L.TileLayer.Kartverket/dist/L.TileLayer.Kartverket.min.js"></script>
+		<script src="lib//Baertur-master/assets/lib/leaflet-gpx/gpx.js"></script>
        
          <!--CUSTOM-->
-        <script src="/js/custom.js"></script>
+        <script src="lib/js/custom.js"></script>
         <link rel="stylesheet" href="/css/custom.css" />
 
    
@@ -96,7 +96,7 @@
 
     <!-- Brand -->
     <a class="navbar-brand" href="<?php echo $root_url ?>">
-        <img src="<?php echo $root_url ?>segmentchallenge.png" style="width:50px;display:inline;"/> 
+        <img src="<?php echo $root_url ?>png/segmentchallenge.png" style="width:50px;display:inline;"/> 
         SegmentChallenge
     </a>
 
@@ -121,7 +121,7 @@
         <?php } ?>
         <li class="nav-item">
         <?php  if( !$currentUser->isStravaUser() ){?>
-                        <a href="<?php echo $loginURL ?>"><img src="<?php echo $root_url ?>LogInWithStrava.png" /></a>
+                        <a href="<?php echo $loginURL ?>"><img src="<?php echo $root_url ?>png/LogInWithStrava.png" /></a>
                 <?php } else {?>
                         <a target="_blank" href="https://www.strava.com/athletes/<?php echo $currentUser->id ?>">
                         <img style="height:40px;" src="<?php echo $currentUser->profile ?>" /></a>

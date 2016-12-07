@@ -1,6 +1,6 @@
 <?php
-require_once 'StravaApi.php';
-include "class_lib.php"; 
+require_once 'lib/StravaApi.php';
+include "lib/class_lib.php"; 
 include "functions.php";
 
 $output_line=0;
@@ -30,10 +30,27 @@ function getTheDate($d){
  
 
 
-$servername = "31.24.132.140";
-$username = "c1_sc_admin";
-$password = "Stallerud381";
-$dbname = "c1sc";
+global $local;
+$local = true;
+global $root_url;
+
+//error_reporting(E_ERROR | E_WARNING | E_PARSE);
+//error_reporting(0);
+
+if(!$local) {
+    $servername = "31.24.132.140";
+    $username = "c1_sc_admin";
+    $password = "Stallerud381";
+    $dbname = "c1sc";
+    $root_url = "/";
+} else {
+    $servername = "localhost";
+    $username = "root";
+    $password = "root";
+    $dbname = "c1sc";
+    $root_url = "/segmentchallenge/";
+    
+}
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

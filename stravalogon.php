@@ -1,7 +1,7 @@
 <?php
 include "db.php";
-include "class_lib.php";
-require_once 'StravaApi.php';
+include "lib/class_lib.php";
+require_once 'lib/StravaApi.php';
 
 if(!$local){
     $root_path = "http://segmentchallenge.lopsloggen.no/";
@@ -98,7 +98,7 @@ $currentUser->setApi($api);
 
 // CACHING 
 if(end($path_info['call_parts']) != "cache" && $path_info['call_parts'][0] == "challenge" && $currentUser->id==0) {
-  checkAndSetCache();
+  if(!$local) checkAndSetCache();
 }
 
 ?>

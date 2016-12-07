@@ -1,4 +1,4 @@
-<?php //include "class_lib.php";?>
+
 <script>document.body.style.backgroundColor = '#eee';</script>
 <script>
 
