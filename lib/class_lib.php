@@ -3,6 +3,7 @@
     {
         public  $id;
         private $conn;
+        private $root_path;
         public  $segmentData = array();
         public  $segmentTotalDistance;
         public  $segmentTotalElevation;
@@ -29,9 +30,10 @@
         public $area_name;
         public $clean_url;
         
-        function __construct($challenge_id,$dbconnection, array $arrayInit = null) {
+        function __construct($challenge_id,$dbconnection, $root_path,array $arrayInit = null) {
             $this->conn = $dbconnection;
             $this->id =  $challenge_id;
+            $this->root_path =  $root_path;
             
 			if(is_null($arrayInit)) {
                 $this->initChallenge();
@@ -385,7 +387,7 @@
             $json_file = $this->getJsonFilePath();
             $str = "<script>" .
             "var xhr = $.ajax({" .
-            "url: '/cache/". $this->path . ".json'," .
+            "url: '" .$this->root_path. "cache/". $this->path . ".json'," .
             "success: function(response) {" .
                 "var d = new Date( xhr.getResponseHeader('Last-Modified') );" .
                 "var datetext=d.getHours()+':'+d.getMinutes();".

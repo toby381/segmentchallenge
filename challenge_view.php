@@ -93,8 +93,8 @@ function allTimeSegmentPR($seg_id) {
 
 if(strlen($challenge_path)<=0) $challenge_id= $_GET["id"];
 
-
-$chall = new challenge($challenge_id,$conn);
+global $root_path;
+$chall = new challenge($challenge_id,$conn,$root_path);
 global $currentUser;
 
 
@@ -175,14 +175,14 @@ if($chall->published || $currentUser->admin_role==1) {
                                 });
                                 L.tileLayer.kartverket('topo2').addTo(map);
 
-                                var gpx = '/gpx/<?php echo $chall->segmentData[$x]->id.".gpx"; ?>';
+                                var gpx = '<?php echo $root_url ?>gpx/<?php echo $chall->segmentData[$x]->id.".gpx"; ?>';
                                
                                 var options = {
                                     async: true,
                                     marker_options: {
-                                        startIconUrl: '/Baertur-master/assets/lib/leaflet-gpx/pin-icon-start.png',
-                                        endIconUrl: '/Baertur-master/assets/lib/leaflet-gpx/pin-icon-end.png',
-                                        shadowUrl: '/Baertur-master/assets/lib/leaflet-gpx/pin-shadow.png'
+                                        startIconUrl: '<?php echo $root_url ?>lib/Baertur-master/assets/lib/leaflet-gpx/pin-icon-start.png',
+                                        endIconUrl: '<?php echo $root_url ?>lib/Baertur-master/assets/lib/leaflet-gpx/pin-icon-end.png',
+                                        shadowUrl: '<?php echo $root_url ?>lib/Baertur-master/assets/lib/leaflet-gpx/pin-shadow.png'
                                     }
                                 };
 
