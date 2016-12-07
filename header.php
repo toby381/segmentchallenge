@@ -35,12 +35,12 @@
         <link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css" />
         <script src="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.js"></script>
         
-		<script src="lib//Baertur-master/assets/lib/L.TileLayer.Kartverket/dist/L.TileLayer.Kartverket.min.js"></script>
-		<script src="lib//Baertur-master/assets/lib/leaflet-gpx/gpx.js"></script>
+		<script src="<?php echo $root_url ?>lib/Baertur-master/assets/lib/L.TileLayer.Kartverket/dist/L.TileLayer.Kartverket.min.js"></script>
+		<script src="<?php echo $root_url ?>lib/Baertur-master/assets/lib/leaflet-gpx/gpx.js"></script>
        
          <!--CUSTOM-->
-        <script src="lib/js/custom.js"></script>
-        <link rel="stylesheet" href="/css/custom.css" />
+        <script src="<?php echo $root_url ?>lib/js/custom.js"></script>
+        <link rel="stylesheet" href="<?php echo $root_url ?>/css/custom.css" />
 
    
         
