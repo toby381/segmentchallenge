@@ -3,6 +3,8 @@ include "db.php";
 include "lib/class_lib.php";
 require_once 'lib/StravaApi.php';
 
+global $local;
+
 if(!$local){
     $root_path = "http://segmentchallenge.lopsloggen.no/";
 } else {

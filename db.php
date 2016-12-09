@@ -2,7 +2,7 @@
 ini_set('max_execution_time', 300);
 include "functions.php";
 global $local;
-$local = true;
+$local = false;
 global $root_url;
 
 //error_reporting(E_ERROR | E_WARNING | E_PARSE);

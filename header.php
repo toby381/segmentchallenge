@@ -1,5 +1,8 @@
 
-<?php include "stravalogon.php"; ?><!DOCTYPE html>
+<?php include "stravalogon.php"; 
+global $root_url;
+
+?><!DOCTYPE html>
 <html lang="nb">
     <head>
         <meta property="og:title" content="<?php echo $page_name; ?>" />
@@ -40,7 +43,7 @@
        
          <!--CUSTOM-->
         <script src="<?php echo $root_url ?>lib/js/custom.js"></script>
-        <link rel="stylesheet" href="<?php echo $root_url ?>/css/custom.css" />
+        <link rel="stylesheet" href="<?php echo $root_url ?>css/custom.css" />
 
    
         

@@ -428,9 +428,9 @@ $(document).ready(function() {
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=3279019&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F650570335%2Fsegments%2F15912068678' data-trigger='focus'  title='Top 5 forsøk'>00:14:55</a> (1) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=3279019&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F657314637%2Fsegments%2F16086842996' data-trigger='focus'  title='Top 5 forsøk'>00:23:33</a> (1) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Jonas</td>
-                            <td  >Brustad</td>
-                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=6761441&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F370166577%2Fsegments%2F8842994747' data-trigger='focus'  title='Top 5 forsøk'>00:14:35</a> (1) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=6761441&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F543188243%2Fsegments%2F13098955569' data-trigger='focus'  title='Top 5 forsøk'>00:14:54</a> (1) </td><td  class='desktop'>-</td><td >-</td>
+                            <td  >Peer Morten</td>
+                            <td  >Løchting</td>
+                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=574121&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F423172792%2Fsegments%2F10181195406' data-trigger='focus'  title='Top 5 forsøk'>00:13:27</a> (10) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=574121&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F370506385%2Fsegments%2F8851729063' data-trigger='focus'  title='Top 5 forsøk'>00:14:40</a> (14) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Cato</td>
@@ -438,14 +438,14 @@ $(document).ready(function() {
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2091832&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F306691733%2Fsegments%2F7234152469' data-trigger='focus'  title='Top 5 forsøk'>00:13:59</a> (6) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2091832&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F472263756%2Fsegments%2F11341098983' data-trigger='focus'  title='Top 5 forsøk'>00:30:11</a> (1) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Peer Morten</td>
-                            <td  >Løchting</td>
-                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=574121&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F423172792%2Fsegments%2F10181195406' data-trigger='focus'  title='Top 5 forsøk'>00:13:27</a> (10) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=574121&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F370506385%2Fsegments%2F8851729063' data-trigger='focus'  title='Top 5 forsøk'>00:14:40</a> (14) </td><td  class='desktop'>-</td><td >-</td>
-                        </tr><tr>
-                            <td  >-</td>
                             <td  >Arne</td>
                             <td  >Dombestein</td>
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=3041706&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F151369180%2Fsegments%2F3484822190' data-trigger='focus'  title='Top 5 forsøk'>00:14:24</a> (2) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=3041706&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F126853486%2Fsegments%2F2852333788' data-trigger='focus'  title='Top 5 forsøk'>00:13:57</a> (3) </td><td  class='desktop'>-</td><td >-</td>
+                        </tr><tr>
+                            <td  >-</td>
+                            <td  >Jonas</td>
+                            <td  >Brustad</td>
+                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=6761441&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F370166577%2Fsegments%2F8842994747' data-trigger='focus'  title='Top 5 forsøk'>00:14:35</a> (1) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=6761441&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F543188243%2Fsegments%2F13098955569' data-trigger='focus'  title='Top 5 forsøk'>00:14:54</a> (1) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Atle</td>
@@ -578,9 +578,9 @@ $(document).ready(function() {
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=917869&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F759115319%2Fsegments%2F18592579004' data-trigger='focus'  title='Top 5 forsøk'>00:10:01</a> (1) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=917869&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F640452263%2Fsegments%2F15650502171' data-trigger='focus'  title='Top 5 forsøk'>00:11:37</a> (3) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Trond</td>
-                            <td  >Kjølstad</td>
-                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=1126591&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F28944149%2Fsegments%2F512416411' data-trigger='focus'  title='Top 5 forsøk'>00:11:22</a> (1) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=1126591&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F462379778%2Fsegments%2F11121619464' data-trigger='focus'  title='Top 5 forsøk'>00:18:28</a> (2) </td><td  class='desktop'>-</td><td >-</td>
+                            <td  >Helge</td>
+                            <td  >Solheim</td>
+                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=574106&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F25478487%2Fsegments%2F455446996' data-trigger='focus'  title='Top 5 forsøk'>00:11:22</a> (9) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=574106&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F167286181%2Fsegments%2F3890647656' data-trigger='focus'  title='Top 5 forsøk'>00:15:47</a> (2) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Thomas</td>
@@ -603,9 +603,9 @@ $(document).ready(function() {
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2422643&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F202679238%2Fsegments%2F4772671881' data-trigger='focus'  title='Top 5 forsøk'>00:10:42</a> (4) </td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2422643&sid=4917545&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F604786405%2Fsegments%2F14742428001' data-trigger='focus'  title='Top 5 forsøk'>00:10:06</a> (1) </td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Helge</td>
-                            <td  >Solheim</td>
-                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=574106&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F25478487%2Fsegments%2F455446996' data-trigger='focus'  title='Top 5 forsøk'>00:11:22</a> (9) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=574106&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F167286181%2Fsegments%2F3890647656' data-trigger='focus'  title='Top 5 forsøk'>00:15:47</a> (2) </td><td  class='desktop'>-</td><td >-</td>
+                            <td  >Trond</td>
+                            <td  >Kjølstad</td>
+                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=1126591&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F28944149%2Fsegments%2F512416411' data-trigger='focus'  title='Top 5 forsøk'>00:11:22</a> (1) </td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=1126591&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F462379778%2Fsegments%2F11121619464' data-trigger='focus'  title='Top 5 forsøk'>00:18:28</a> (2) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Jonas</td>
@@ -643,6 +643,11 @@ $(document).ready(function() {
                             <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2277708&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F159684636%2Fsegments%2F3701647989' data-trigger='focus'  title='Top 5 forsøk'>00:17:39</a> (1) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
+                            <td  >Martin</td>
+                            <td  >Gulliksen</td>
+                            <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2738575&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F202712926%2Fsegments%2F4773332285' data-trigger='focus'  title='Top 5 forsøk'>00:17:46</a> (1) </td><td  class='desktop'>-</td><td >-</td>
+                        </tr><tr>
+                            <td  >-</td>
                             <td  >Mats</td>
                             <td  >Næss</td>
                             <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=1248118&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F75837219%2Fsegments%2F1596298808' data-trigger='focus'  title='Top 5 forsøk'>00:17:46</a> (2) </td><td  class='desktop'>-</td><td >-</td>
@@ -651,11 +656,6 @@ $(document).ready(function() {
                             <td  >Jon</td>
                             <td  >Moslet</td>
                             <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2357717&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F185208301%2Fsegments%2F4336502128' data-trigger='focus'  title='Top 5 forsøk'>00:19:11</a> (2) </td><td  class='desktop'>-</td><td >-</td>
-                        </tr><tr>
-                            <td  >-</td>
-                            <td  >Martin</td>
-                            <td  >Gulliksen</td>
-                            <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2738575&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F202712926%2Fsegments%2F4773332285' data-trigger='focus'  title='Top 5 forsøk'>00:17:46</a> (1) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Øivind</td>
@@ -688,14 +688,14 @@ $(document).ready(function() {
                             <td  >F</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=982647&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F76747507%2Fsegments%2F1596121068' data-trigger='focus'  title='Top 5 forsøk'>00:17:24</a> (9) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Erika</td>
-                            <td  >Wollner</td>
-                            <td  >F</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=9698445&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F333248491%2Fsegments%2F7896598639' data-trigger='focus'  title='Top 5 forsøk'>00:18:30</a> (1) </td><td  class='desktop'>-</td><td >-</td>
-                        </tr><tr>
-                            <td  >-</td>
                             <td  >Per Olav</td>
                             <td  >Walmann</td>
                             <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=65835&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F546689718%2Fsegments%2F13189155243' data-trigger='focus'  title='Top 5 forsøk'>00:17:47</a> (1) </td><td  class='desktop'>-</td><td >-</td>
+                        </tr><tr>
+                            <td  >-</td>
+                            <td  >Erika</td>
+                            <td  >Wollner</td>
+                            <td  >F</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=9698445&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F333248491%2Fsegments%2F7896598639' data-trigger='focus'  title='Top 5 forsøk'>00:18:30</a> (1) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >K</td>
@@ -828,14 +828,14 @@ $(document).ready(function() {
                             <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=424892&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F80076421%2Fsegments%2F1626024927' data-trigger='focus'  title='Top 5 forsøk'>00:14:29</a> (1) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Anders S.</td>
-                            <td  >Heen</td>
-                            <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=1383841&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F80072908%2Fsegments%2F1625933798' data-trigger='focus'  title='Top 5 forsøk'>00:14:32</a> (1) </td><td  class='desktop'>-</td><td >-</td>
-                        </tr><tr>
-                            <td  >-</td>
                             <td  >Haakon</td>
                             <td  >Solheim</td>
                             <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=3346445&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F94693365%2Fsegments%2F2004289946' data-trigger='focus'  title='Top 5 forsøk'>00:14:32</a> (1) </td><td  class='desktop'>-</td><td >-</td>
+                        </tr><tr>
+                            <td  >-</td>
+                            <td  >Anders S.</td>
+                            <td  >Heen</td>
+                            <td  >M</td><td  class='desktop'>-</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=1383841&sid=5331533&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F80072908%2Fsegments%2F1625933798' data-trigger='focus'  title='Top 5 forsøk'>00:14:32</a> (1) </td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Tor Olav</td>
@@ -1368,14 +1368,14 @@ $(document).ready(function() {
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=155564&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F759330105%2Fsegments%2F18598387073' data-trigger='focus'  title='Top 5 forsøk'>00:10:51</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Vegar</td>
-                            <td  >Sandvik</td>
-                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=435318&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F457069133%2Fsegments%2F10990703873' data-trigger='focus'  title='Top 5 forsøk'>00:15:16</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
-                        </tr><tr>
-                            <td  >-</td>
                             <td  >Lars Philip</td>
                             <td  >Olaussen</td>
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=10714296&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F589490351%2Fsegments%2F14344271845' data-trigger='focus'  title='Top 5 forsøk'>00:15:16</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
+                        </tr><tr>
+                            <td  >-</td>
+                            <td  >Vegar</td>
+                            <td  >Sandvik</td>
+                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=435318&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F457069133%2Fsegments%2F10990703873' data-trigger='focus'  title='Top 5 forsøk'>00:15:16</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Neil</td>
@@ -1388,11 +1388,6 @@ $(document).ready(function() {
                             <td  >F</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2161116&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F759360895%2Fsegments%2F18599096537' data-trigger='focus'  title='Top 5 forsøk'>00:13:57</a> (6) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Arne </td>
-                            <td  >Hatlen</td>
-                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=119316&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F209281672%2Fsegments%2F4937062978' data-trigger='focus'  title='Top 5 forsøk'>00:12:31</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
-                        </tr><tr>
-                            <td  >-</td>
                             <td  >Arne Olav</td>
                             <td  >Sunde</td>
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=333695&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F180945437%2Fsegments%2F4230175549' data-trigger='focus'  title='Top 5 forsøk'>00:12:31</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
@@ -1401,6 +1396,11 @@ $(document).ready(function() {
                             <td  >Sondre</td>
                             <td  >Sveen</td>
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=9931424&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F739065094%2Fsegments%2F18125570534' data-trigger='focus'  title='Top 5 forsøk'>00:12:31</a> (3) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
+                        </tr><tr>
+                            <td  >-</td>
+                            <td  >Arne </td>
+                            <td  >Hatlen</td>
+                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=119316&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F209281672%2Fsegments%2F4937062978' data-trigger='focus'  title='Top 5 forsøk'>00:12:31</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Rune</td>
@@ -1443,14 +1443,14 @@ $(document).ready(function() {
                             <td  ></td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=3227864&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F593295120%2Fsegments%2F14448628314' data-trigger='focus'  title='Top 5 forsøk'>00:11:28</a> (3) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Truls</td>
-                            <td  >Wagener</td>
-                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=1514725&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F91414132%2Fsegments%2F1915618491' data-trigger='focus'  title='Top 5 forsøk'>00:12:09</a> (2) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
-                        </tr><tr>
-                            <td  >-</td>
                             <td  >Jacob</td>
                             <td  >Jacobsen</td>
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=389620&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F759394427%2Fsegments%2F18599841288' data-trigger='focus'  title='Top 5 forsøk'>00:12:09</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
+                        </tr><tr>
+                            <td  >-</td>
+                            <td  >Truls</td>
+                            <td  >Wagener</td>
+                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=1514725&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F91414132%2Fsegments%2F1915618491' data-trigger='focus'  title='Top 5 forsøk'>00:12:09</a> (2) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Trygve</td>
@@ -1763,9 +1763,9 @@ $(document).ready(function() {
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=2818150&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F96811952%2Fsegments%2F2059634441' data-trigger='focus'  title='Top 5 forsøk'>00:18:24</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Trond</td>
-                            <td  >Snellingen</td>
-                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=14571410&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F696746704%2Fsegments%2F17082239689' data-trigger='focus'  title='Top 5 forsøk'>00:20:00</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
+                            <td  >Jo Simen</td>
+                            <td  >Skog</td>
+                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=6943241&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F476459791%2Fsegments%2F11429880463' data-trigger='focus'  title='Top 5 forsøk'>00:20:00</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Joakim</td>
@@ -1773,9 +1773,9 @@ $(document).ready(function() {
                             <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=128114&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F415777021%2Fsegments%2F9997905216' data-trigger='focus'  title='Top 5 forsøk'>00:19:56</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
-                            <td  >Jo Simen</td>
-                            <td  >Skog</td>
-                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=6943241&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F476459791%2Fsegments%2F11429880463' data-trigger='focus'  title='Top 5 forsøk'>00:20:00</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
+                            <td  >Trond</td>
+                            <td  >Snellingen</td>
+                            <td  >M</td><td  class='desktop'><a href='#'  data-html='true' data-poload='/pop.php?aid=14571410&sid=1282927&sd=1970-07-01T00:00:00+01:00&ed=2038-01-01T00:00:00+01:00&bt=https%3A%2F%2Fwww.strava.com%2Factivities%2F696746704%2Fsegments%2F17082239689' data-trigger='focus'  title='Top 5 forsøk'>00:20:00</a> (1) </td><td  class='desktop'>-</td><td  class='desktop'>-</td><td >-</td>
                         </tr><tr>
                             <td  >-</td>
                             <td  >Trine</td>
