@@ -1,4 +1,5 @@
 <?php
+$local = true;
 
 // ************For produksjon av clean-url til lagring i DB**************
 function hyphenize($string) {
