@@ -23,7 +23,7 @@ ul .navbar-nav li {
   margin-top: 10px;
 }
 
-/* line 26, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+/* line 28, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
 table.display th {
   max-width: 80px;
   /*overflow:hidden;
@@ -31,56 +31,70 @@ table.display th {
     text-overflow:ellipsis;*/
 }
 
-/* line 33, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+/* line 35, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
 table.step {
   width: 100%;
   margin-bottom: 30px;
 }
 
-/* line 35, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+/* line 37, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
 table.step td {
   border-bottom: 1px solid #ccc;
 }
 
-/* line 36, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+/* line 38, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
 table.step td.active {
   border-bottom: 1px solid #666;
 }
 
-/* line 39, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+/* line 41, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
 .map-field {
   width: 100%;
   height: 150px;
 }
 
+/* line 46, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+.center-image {
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 300px;
+  height: 300px;
+  margin-top: -150px;
+  /* Half the height */
+  margin-left: -150px;
+  /* Half the width */
+}
+
 @media (max-width: 544px) {
-  /* line 45, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+  /* line 59, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
   .navbar {
     position: absolute;
     top: 0;
     left: 0;
   }
-  /* line 50, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+  /* line 64, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
   .map-field {
     display: none;
   }
-  /* line 53, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+  /* line 67, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
   .challenge {
     margin-bottom: 60px;
   }
 }
 
-/* line 58, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+/* line 72, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
 .toggle-map {
   display: none;
 }
 
 @media (min-width: 544px) {
-  /* line 62, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+  /* line 76, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
   .toggle-map {
     display: none;
   }
-  /* line 65, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+  /* line 79, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
   .card-columns {
     -webkit-column-count: 1;
     -moz-column-count: 1;
@@ -89,7 +103,7 @@ table.step td.active {
 }
 
 @media (min-width: 648px) {
-  /* line 74, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+  /* line 88, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
   .card-columns {
     -webkit-column-count: 2;
     -moz-column-count: 2;
@@ -98,7 +112,7 @@ table.step td.active {
 }
 
 @media (min-width: 62em) {
-  /* line 83, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
+  /* line 97, /Users/macbruker/htdocs/segmentchallenge/sass/custom.scss */
   .card-columns {
     -webkit-column-count: 3;
     -moz-column-count: 3;
