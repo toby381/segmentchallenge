@@ -135,9 +135,9 @@
                             
                             
                         <ul class="list-group list-group-flush">
-                            <li class="list-group-item"><?php echo $area_item["name"]; ?></li> 
-                            <li style="font-size:10px; float:left; width:50%;" class="list-group-item"><?php echo $challenge->regel_name; ?></li> 
-                            <li style="font-size:10px;float:left; width:50%;" class="list-group-item"><?php echo $date; ?></li>  
+                            <li class="list-group-item" style="float:left; width:50%;"><?php echo $area_item["name"]; ?></li> 
+                            <!--<li style="font-size:10px; float:left; width:50%;" class="list-group-item"><?php echo $challenge->regel_name; ?></li> -->
+                            <li style="font-size:10px;float:left; width:50%; height:50px;" class="list-group-item"><?php echo $date; ?></li>  
                         </ul>
                                 
                        
