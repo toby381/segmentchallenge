@@ -89,36 +89,39 @@
                 n.forEach(function(n, i){
                    domStyle.set(n, "opacity", 0);
                     fx.fadeIn({ node: n }).play();
+                    
+                    // rollover animasjon
                     on(n, mouse.enter, function(evt){
-                        
-                        domStyle.set(n, "opacity", 0.75);
                         var img = query("img", n);
-                        console.log(img.length);
+                       //console.log(img.length);
                         if(img.length>0) {
+                           var nw = domStyle.get(n, "width");
                             fx.animateProperty({
                                node:img[0],
                                properties: {
-                                 width: 430,
+                                 width: nw+10,
                                  marginLeft:-5,
-                                 marginTop:-5
+                                 marginTop:-5,
+                                   opacity:0.7
                                }
                              }).play();
                         }
                         
 
                     });
+                    // rollout animasjon
                     on(n, mouse.leave, function(evt){
-                        domStyle.set(n, "opacity", 1);
-                       
                         var img = query("img", n);
                         console.log(img.length);
                         if(img.length>0) {
+                            var nw = domStyle.get(n, "width");
                             fx.animateProperty({
                                node:img[0],
                                properties: {
-                                 width: 419,
+                                  width: nw,
                                 marginLeft:0,
-                                 marginTop:0
+                                 marginTop:0,
+                                    opacity:1
                                }
                              }).play();
                         }
