@@ -21,7 +21,7 @@
 </script>
 <script type="text/template" id="card-template">
 
-<div  class="card area_{{a_id}} challenge">
+<div style="overflow:hidden;" class="card area_{{a_id}} challenge">
     <a href="challenge/{{c_path}}">
         <img class="card-img-top" src="<?php echo $root_url ?>images/{{c_image}}"  width="100%" />
     </a>
@@ -65,13 +65,75 @@
 
 <script>
     require([
+        "dojo/request", 
+        "dojo/topic",
         'scService/connectSCservice',
         'dojo/domReady!'
-    ], function (connectSCservice) {
-       connectSCservice.loadData();
+    ], function (request,topic,connectSCservice) {
+       
+        topic.subscribe("challengeSCservice/topic", function(){
+            console.log("received:", arguments);
+            connectSCservice.generateCards();
+            require([
+                "dojo/mouse", 
+                "dojo/on", 
+                "dojo/dom",
+                "dojo/dom-style",
+                "dojo/_base/fx",
+                "dojo/query",
+                "dojo/NodeList-dom"
+            ], function(mouse, on, dom, domStyle,fx, query) {
 
- ;
+                var n = query("#myApp div");
+                //console.log(n);
+                n.forEach(function(n, i){
+                   domStyle.set(n, "opacity", 0);
+                    fx.fadeIn({ node: n }).play();
+                    on(n, mouse.enter, function(evt){
+                        
+                        domStyle.set(n, "opacity", 0.75);
+                        var img = query("img", n);
+                        console.log(img.length);
+                        if(img.length>0) {
+                            fx.animateProperty({
+                               node:img[0],
+                               properties: {
+                                 width: 430,
+                                 marginLeft:-5,
+                                 marginTop:-5
+                               }
+                             }).play();
+                        }
+                        
+
+                    });
+                    on(n, mouse.leave, function(evt){
+                        domStyle.set(n, "opacity", 1);
+                       
+                        var img = query("img", n);
+                        console.log(img.length);
+                        if(img.length>0) {
+                            fx.animateProperty({
+                               node:img[0],
+                               properties: {
+                                 width: 419,
+                                marginLeft:0,
+                                 marginTop:0
+                               }
+                             }).play();
+                        }
+                    });
+                });
+
+            }); 
+        });
+        
+        connectSCservice.loadData();
+        
     });
+    
+                 
+
 </script>
 
 
@@ -108,7 +170,7 @@
 </ul>
 <div class="row">
     <div class="col-sm-12">
-        <div id="myApp" class="card-columns" style="min-height:200px;opacity:0;" >
+        <div id="myApp" class="card-columns" style="min-height:200px;" >
         </div>
     </div>
 </div> 
